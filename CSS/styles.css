@@ -212,6 +212,7 @@ h1 {
   }
   .footer .cart {
     margin: 50px 0 50px 100px;
+    text-align: start;
   }
   .footer .cart h4 {
     text-align: start;
