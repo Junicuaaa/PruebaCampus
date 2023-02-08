@@ -200,7 +200,7 @@ h1 {
 }
 .footer .cart ul li {
   list-style: none;
-  text-align: start;
+  text-align: center;
 }
 
 @media (max-width: 1000px) {
